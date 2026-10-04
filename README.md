@@ -31,14 +31,6 @@ python3 01_scripts/log_parser.py
 - Automation using Python  
 - Intro SOC-style error identification  
 
----
-
-## Author
-
-**cyberweles**  
-GitHub: https://github.com/cyberweles
-
----
 
 ## License
 
